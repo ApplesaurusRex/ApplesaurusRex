@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ApplesaurusRex
+- 👀 I’m interested in Unity and Halo Modding
+- 🌱 I’m currently learning Python and Halo Modding and Unity
+- 📫 How to reach me: I'll find you if we need to talk
