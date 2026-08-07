@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ApplesaurusRex
-- 👀 I’m interested in Unity and Halo Modding
-- 🌱 I’m currently learning Python and Halo Modding and Unity
+- 👀 I’m interested in Halo Modding
+- 🌱 I took a Python class in High School but my skills are rusty at best. I have a tiny bit of experience with Doom and Halo modding, but nothing of use to anyone but me
+- I have also been learning Blender
 - 📫 How to reach me: I'll find you if we need to talk
